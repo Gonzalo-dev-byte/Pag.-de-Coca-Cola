@@ -1,0 +1,64 @@
+h1{
+color: black;
+}  
+header{
+background: #e00c0c;
+/* background-image:url(../imag/CocaCola.jpg);
+height:100vh;
+background-size: cover; */
+
+}
+ul{
+left: 100;
+color: rgb(117, 5, 5);
+}
+
+a{
+text-decoration: none;
+}
+.hero_item{
+    background: black;
+    width: 400px;
+    height: 200px;
+    border: 5px solid rgb(240, 34, 34);
+    border-radius: 15px;
+    margin: 20px;
+    padding: 40px;
+    box-sizing: border-box;
+    left: 300px;
+    
+}
+.hero_item img{
+background-image: url(../imag/Lata.jpg);
+border-radius: 15px;;
+width: 150px;
+left: px;
+box-sizing: border-box;
+
+}   
+h2{
+/* position: relative; */
+top: 20px;
+left: 600px;
+font-size: 24px;
+color: black;
+}
+
+.nuevo{
+display: flex;
+gap: 2rem;
+width: 80vw;
+justify-content: center;
+}
+
+.logo{
+    width: 350px;
+}
+
+.imagenes{
+display: flex;
+gap: 8rem;
+width: 200vw;
+justify-content: center;
+
+}
